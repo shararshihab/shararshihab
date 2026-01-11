@@ -6,6 +6,7 @@
 <p align="center"> <img height="25" src="https://komarev.com/ghpvc/?username=ishmamnewaz&label=Profile%20views&color=0e75b6&style=flat" alt="ishmamnewaz" /> </p>
 
   <!-- Animated wave -->
+  <!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=header&text=&fontSize=60" />
 <img src="https://readme-typing-svg.demolab.com/?lines=Research%20Assistant%20%7C%20(D2A2I);Greed%20Equals%20Justice&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=1500&color=6366F1" />
 </div>
